@@ -2,7 +2,7 @@
   "server": "127.0.0.1",
   "local_address": "127.0.0.1",
   "scheme": "ws",
-  "local_port": 1080,
+  "local_port": 55555,
   "remote_port": 8080,
   "password": "`try*(^^$some^$%^complex>:<>?~password/",
   "timeout": 600,
